@@ -21,6 +21,7 @@
 - **Напряжение AC (V~)**: 0.01 V (фиксированное)
 
 ## Структура проекта
+- `Assets/Scenes/MultimeterScene` - сцена с мультиметром
 - `Assets/Scripts/Utilities/` - все скрипты
 ## Скриншоты
 <img width="1353" height="901" alt="image" src="https://github.com/user-attachments/assets/32c5f35a-179d-4604-a7a6-dd59344f8054" />
